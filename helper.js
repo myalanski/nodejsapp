@@ -1,6 +1,6 @@
 exports.getDataFromDatabase = function getDataFromDatabase(){
     const users = {
-        name: 'Jon Smith',
+        name: 'Honza špek',
         email: 'jsmith@gmail.com',
         title: 'Sales Director'
         };
